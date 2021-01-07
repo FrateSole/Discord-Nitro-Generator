@@ -1,2 +1,18 @@
-# Discord-Nitro-Generator
-Full Auto Proxy Scraper, Nitro Generator and Checker. Multithread, FAST. 
+# Discord-Nitro-Generator ![version](https://img.shields.io/badge/version-1.0.0-green)
+
+## Discord-Nitro-Generator features:
+* Automated Proxy Scraper.
+* Code Generator.
+* Code Validity Checker.
+
+<p align="center">
+  <img src="imgs/Cattura.PNG" alt="Size Limit CLI" width="738">
+</p>
+
+## Performances:
+* Fast Proxy Scraping
+* 400/1500CPM
+* Low RAM/NETWORK consuming
+<p align="center">
+  <img src="imgs/Cattura1.PNG" alt="Size Limit CLI" width="738">
+</p>
