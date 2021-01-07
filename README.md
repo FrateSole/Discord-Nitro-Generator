@@ -1,5 +1,7 @@
 # Discord-Nitro-Generator ![version](https://img.shields.io/badge/version-1.0.0-green)
 
+**DISCLAIMER**: The code is for educational purposes only.
+
 ## Discord-Nitro-Generator features:
 * Automated Proxy Scraper.
 * Code Generator.
